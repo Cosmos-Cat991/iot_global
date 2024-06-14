@@ -1,0 +1,22 @@
+* J1939 hacking
+** 综述
+- J1939是我的一个知识短板，在过去多年的工作中算是一个不小的遗憾。在过去的这么多年中，我似乎就没见过真正的J1939运行起来应该是什么样子。这次简单的学习，用了一些开源的代码以及工具，就当他们的运行效果是真的J1939的味道了。
+- 我找的教程基本上以微芯的开源例程为原本，为了保证软件的原汁原味，我还买了两个微芯的两个开发板。
+
+** 学习笔记
+- [[https://greyzhang.blog.csdn.net/article/details/109411278][442_J1939 PDU Format判断]]
+- [[https://greyzhang.blog.csdn.net/article/details/109456723][443_J1939源地址与目标地址的使用和判断]]
+- [[https://greyzhang.blog.csdn.net/article/details/109479618][444_J1939源地址冲突时候的协议栈处理行为分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/109498960][445_J1939地址声明报文格式]]
+- [[https://greyzhang.blog.csdn.net/article/details/109543595][447_J1939初始化代码分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/109587534][448_J1939地址声明设计代码阅读分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/109635675][450_J1939地址声明函数的调用处理分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/109667070][451_J1939地址声明超时确认处理代码分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/109692598][452_J1939广播多帧报文的例程分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/109703346][453_J1939命令地址PGN 65240（FED8）的使用]]
+- [[https://greyzhang.blog.csdn.net/article/details/109715655][454_J1939中断模式下的中断服务子程序分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/109736143][455_J1939信息接收接口分析]]
+- [[https://greyzhang.blog.csdn.net/article/details/109763440][456_J1939中普通报文的队列接收]]
+- [[https://greyzhang.blog.csdn.net/article/details/109826486][457_J1939中普通报文的队列接收实现机制]]
+- [[https://greyzhang.blog.csdn.net/article/details/109892751][459_J1939请求报文格式分析与代码印证]]
+- [[https://greyzhang.blog.csdn.net/article/details/109964270][460_J1939请求报文的应答]]
